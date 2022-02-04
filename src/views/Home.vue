@@ -118,7 +118,7 @@ input[type="submit"] {
 .img-poster {
     display: block;
     width: 100%;
-    height: 270px;
+    height: 300px;
     object-fit: cover;
 }
 
